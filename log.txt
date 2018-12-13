@@ -1,0 +1,37 @@
+
+-----------------------spotify-this-song--------------------------
+song name: The Sign
+artist(s): Ace of Base
+album: The Sign (US Album) [Remastered]
+preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=26d3a4d3fcc646ffa75a430b917ec9f7
+-----------------------spotify-this-song--------------------------
+artist(s): Bruno Mars
+song name: Just The Way You Are
+preview song: https://p.scdn.co/mp3-preview/07c6c33d6426d61ffd2e93d4c06ca599f7761b46?cid=26d3a4d3fcc646ffa75a430b917ec9f7
+album: Doo-Wops & Hooligans
+-----------------------concert-this---------------------------
+Name of the venue: Omnia
+Venue location: Cabo San Lucas
+Date of the Event: 12/29/2018
+-----------------------concert-this---------------------------
+Name of the venue: Brooklyn Bowl
+Date of the Event: 12/13/2018
+Venue location: Las Vegas
+-----------------------movie-this---------------------------
+Title: Mr. Nobody
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 63/100
+Year: 2009
+Language: English, Mohawk
+Country: Belgium, Germany, Canada, France, USA, UK
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+-----------------------movie-this---------------------------
+Title: Superbad
+IMDB Rating: 7.6
+Year: 2007
+Rotten Tomatoes Rating: 76/100
+Language: English
+Country: USA
+Plot: Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry.
+Actors: Jonah Hill, Michael Cera, Christopher Mintz-Plasse, Bill Hader
