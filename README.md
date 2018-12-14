@@ -1,6 +1,6 @@
 # Liri-Node-App
 
-![Alt Text](https://giphy.com/gifs/9MIJ1FCN6GHBXMPSlQ/html5)
+![Alt Text](./screenshots/Animated Gif-source.gif)
 
 
 LIRI is a Language Interpretation and Recognition Interface. This app will be a command line node app that takes in parameters and gives you back data based on API calls. LIRI uses the following commands:
