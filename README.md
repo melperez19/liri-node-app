@@ -29,7 +29,7 @@ This will show the following information about the song in your terminal/bash wi
 if no song is provided then the program will default to
 "The Sign" by Ace of Base
 
-![final-screenshot](./screenshots/liri-node-app/-SpotifyDefaultResults.jpg) 
+![final-screenshot](https://github.com/melperez19/liri-node-app/blob/master/screenshots/SpotifyDefaultResults.JPG) 
 --------------------------------------------------------------------------------------------------------------------------------------
 2. node liri.js concert-this <band name here> :
 This will search the Bands in Town Artist Events API for an artist and render the following information about each event to the terminal:
