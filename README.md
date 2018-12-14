@@ -1,8 +1,5 @@
 # Liri-Node-App
 
-![Alt Text](./screenshots/Animated Gif-source.gif)
-
-
 LIRI is a Language Interpretation and Recognition Interface. This app will be a command line node app that takes in parameters and gives you back data based on API calls. LIRI uses the following commands:
 
 spotify-this-song
@@ -17,7 +14,7 @@ do-what-it-says
 
 * Node.js
 * Javascript
-* npm packages: require, fs, spotify, axios
+* npm packages: require, fs, spotify, axios, moment
 
 # How to Run LIRI-Bot
 
@@ -32,6 +29,7 @@ This will show the following information about the song in your terminal/bash wi
 if no song is provided then the program will default to
 "The Sign" by Ace of Base
 
+![final-screenshot](/screenshots/liri-node-app-SpotifyDefaultResults.jpg) 
 --------------------------------------------------------------------------------------------------------------------------------------
 2. node liri.js concert-this <band name here> :
 This will search the Bands in Town Artist Events API for an artist and render the following information about each event to the terminal:
