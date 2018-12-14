@@ -1,4 +1,6 @@
-# Liri-Node-App
+                                                            # Liri-Node-App
+                                                            
+           ![gif-screenshot](https://github.com/melperez19/liri-node-app/blob/master/screenshots/Animated%20GIF-source.gif)
 
 LIRI is a Language Interpretation and Recognition Interface. This app will be a command line node app that takes in parameters and gives you back data based on API calls. LIRI uses the following commands:
 
@@ -54,13 +56,18 @@ This will output the following information to your terminal/bash window:
 
 If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
 
+![movie-screenshot](https://github.com/melperez19/liri-node-app/blob/master/screenshots/MovieThisDefault.JPG)
+
 --------------------------------------------------------------------------------------------------------------------------------------
 4: node liri.js do-what-it-says
 
 This should run spotify-this-song for "I Want it That Way," as follows the text in random.txt.
-Edit the text in random.txt to test out the feature for movie-this and concert-this.
+
+![do-screenshot](https://github.com/melperez19/liri-node-app/blob/master/screenshots/DoWhatItSaysResults.JPG)
 
 --------------------------------------------------------------------------------------------------------------------------------------
 5. New Text File created with results information
 
 An fs.appendFile has been added to the search results from each search command so that the information retrieved gets stored in a seperate, new file called log.txt
+
+![log-screenshot](https://github.com/melperez19/liri-node-app/blob/master/screenshots/LogTxtResults.JPG)
